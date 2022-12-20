@@ -1,0 +1,110 @@
+.ul {
+    background-color: black;
+    overflow: hidden;
+}
+
+
+
+
+.li {
+    float: right;
+    list-style-type: none;
+
+}
+
+
+.li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    margin-right: 8px;
+    margin-top: 16px;
+    margin-bottom: 6px;
+    text-decoration: none;
+    border: 1px solid white;
+
+}
+
+.log-img {
+    float: left;
+    position: relative;
+    margin-left: 200px;
+    margin-top: 10px;
+
+    background-color: black; 
+
+}
+
+.navigation-bar {
+    width: 100%;
+    height: 150px;
+    background-color: black;  
+}
+
+.image-1 {
+    background-image: url(../images/cafee2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 520px;
+}
+
+#first {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#second {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#form {
+    margin-top: -150px;
+    margin-left: 1000px;
+    margin-right: 50px;
+    margin-bottom: -90px;
+    background-color: olivedrab;
+
+}
+
+#container {
+
+    width: 100%;
+    border: 1px solid white;
+
+
+}
+
+#c1 {
+    width: 34%;
+    background-color: yellow;
+    float: right;
+
+
+
+
+}
+
+#c2 {
+    width: 33%;
+    background-color: brown;
+    float: right;
+
+
+}
+
+
+#c3 {
+    width: 33%;
+    background-color: violet;
+    float: right;
+
+}
+
+#footer {
+    background-color: black;
+    color: white
+}

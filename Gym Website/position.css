@@ -1,0 +1,28 @@
+.main{
+    display: flex;
+    overflow: hidden;
+    justify-content: space-evenly;  
+     
+}
+
+.main1{
+  background-color: blue;
+  height: 300px;
+  width: 100px;
+  flex: 1;
+  
+}
+.main2{
+  background-color: chocolate;
+  height: 300px;
+  width: 100px;
+  flex: 1;
+
+}
+.main3{
+    background-color: brown;
+    height: 300px;
+    width: 100px;
+    flex: 1;
+    
+}

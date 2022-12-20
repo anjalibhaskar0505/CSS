@@ -1,0 +1,185 @@
+body{
+    margin:0;
+    padding: 0;
+}
+
+#main{
+    background-color:grey; 
+    width: 100%;
+    height: 70px;
+}
+
+#log-img{
+    
+    
+    position: relative;
+    right: -30px;
+    
+}
+
+#ul{
+    list-style-type: none;
+    display: flex;
+    
+}
+
+li a{
+    text-decoration: none;
+    position: relative;
+    bottom: 100px;
+    left: 250px; 
+    top: -65px;
+    color: white;
+}
+
+.li{
+    margin-right: 50px;
+}
+
+#main1{
+    background-image: url(../images/back-img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    height: 800px;
+    width: 100%
+}
+
+#form{
+    position: relative;
+    top:200px;
+    font-family:'Times New Roman', Times, serif
+}
+
+#h1{
+    font-size: 50px;
+}
+
+#butn{
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    padding: 12px 14px;
+}
+
+#container{
+    display: flex;
+    /* justify-content: space-between;
+    justify-content: center;
+    justify-content: space-around; */
+    
+}
+
+
+.c1{
+    
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: yellow;
+    margin-right: 50px;
+    margin-left: 50px;
+    
+}
+
+.c2{
+    
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: violet;
+    margin-right: 50px;
+    
+    
+}
+
+.c3{
+   
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: yellowgreen;
+    margin-right: 50px;
+    
+}
+
+#wrapper{
+    display: flex;
+    position: relative;
+    /* top: 100px; */
+    
+    background-color: aqua;
+    /* justify-content: center;
+    justify-content: space-around;
+    justify-content: space-between; */
+}
+#w{
+    position: relative;
+    left: 600px;
+}
+
+
+.w1{
+    margin-left: 50px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-right: 20px;
+}
+
+.w2{
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-right: 20px;
+}
+
+
+.w3{
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-right: 20px;
+}
+
+
+.w4{
+    margin-right: 150px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-right: 20px;
+}
+
+#box{
+    background-image: url(../images/back-img1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+    position: relative;
+    top: -21px;
+    
+}
+
+#box1{
+    position: relative;
+    top:50px
+}
+
+.label{
+    position: relative;
+    left: -125px;
+}
+
+.label1{
+    position: relative;
+    left: -140px; 
+}
+
+#form{
+    position: relative;
+    top: 100px;
+}
+
+#footer{
+    background-color:grey;
+    color: white;
+    position: relative;
+    bottom: 21px;
+}
+
